@@ -7,17 +7,17 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .nav-bg{
-    background: rgba(113, 111, 124, 0.8);
+    background: #65AAE7;
 }
 
 .navbar-nav .nav-item .nav-link{
     float:inline-end;
-    color: rgb(224, 191, 222);
+    color:white;
 }
 /*---Hero---*/
 #hero{
     width:100%;
-    height: 101vh;
+    height: 100vh;
     overflow:hidden;
     position: relative;
     
@@ -75,7 +75,7 @@ body{
     height: 120%;
 }
 #hero h2{
-    color:#fff;
+    color:#65AAE7;
     margin-bottom:30px;
     font-size:48px;
     font-weight:bold;
@@ -84,7 +84,7 @@ body{
     width:80%;
     animation-delay:0.4s;
     margin:0 0 30px 0;
-    color:rgb(141, 79, 79);
+    color:#65AAE7;
 }
 #hero #special-text{
     border-radius: 7px;
@@ -97,7 +97,7 @@ body{
     font-size: 25px;
     font-weight: 700;
     background-color:rgba(255,255,255,0.5);
-    color: darkgreen;
+    color: #2291F4;
 }
 #hero .carousel-control-prev, 
 #hero .carousel-control-next{
@@ -123,10 +123,10 @@ body{
     margin:10px;
     color:#fff;
     animation-delay:0.5s;
-    border:2px solid #9ef596;
+    border:2px solid #133fcf;
 }
 #hero .hero-btn:hover{
-    background:#0a6801;
+    background: #2291F4;
     color:#fff;
     text-decoration:none;
 }
@@ -197,7 +197,7 @@ body{
     border-radius:4px;
     color:#000;
     font-weight:700;
-    border:1.8px solid rgba(20,54,1,0.6);
+    border:1.8px solid #0992F8;
     font-size:26px;
     line-height: 20px;
 
@@ -205,8 +205,8 @@ body{
 
 .tabs .nav-pills .nav-item .nav-link.active{
     color:#fff;
-    background:#053001;
-    border:1px solid #9ef596;
+    background:#0992F8;
+    border:1px solid #1D2DE7;
 }
 .tabs .nav-pills .nav-item .nav-link.active span{
     color:#fff;
@@ -217,14 +217,14 @@ body{
     font-weight: 600;
 }
 .border-below{
-    border-bottom:#3cc78f 2px solid;
+    border-bottom:#098EF8 2px solid;
     
     
 }
 .tabs .tab-content{
     /* background:#fff; */
     width: 100%;
-    background-color: rgba(36, 116, 23, 0.8);
+    background-color: #0965F8;
     /* border:brown 2px solid; */
     border-radius: 4px;
     /* position: relative; */
@@ -255,7 +255,7 @@ body{
 
 }
 .tabs .tab-content h3 a{
-    color:#02353c;
+    color:#0965F8
 }
 /*======End of About Us=========*/
 .dark-bg{
@@ -264,7 +264,7 @@ body{
 /*========facilities========*/
 .story-box{
     padding:15px;
-    background:#c6f8bc;
+    background:#09F8E9;
     margin-bottom:30px;
     position:relative;
 }
@@ -312,7 +312,7 @@ body{
     content:'';
     width:50%;
     height: 100%;
-    background: #053001;
+    background: #0E58A0;
     position: absolute;
     top:0;
     left:0;
@@ -320,19 +320,19 @@ body{
     
 }
 .overlay:hover:before{
-    background:#053001;
+    background:#2C95FB;
     width:100%;
     border-radius:10px;
 }
 /*========End of the facilities========*/
 /*============Projects Section=======*/
 .project-container{
-    background: #136d01;
+    background: #2C95FB;
     position: relative;
     overflow: hidden;
 }
 .donation{
-    background:#7ff767;
+    background:#09F8E9;
     color:black;
     padding:3px 3.5px;
     position: absolute;
@@ -360,7 +360,7 @@ body{
 .outline:before{
     content:'';
     position:absolute;
-    border: #7ff677 solid 4px;
+    border: #09F8E9 solid 4px;
     top:4px;
     left: 4px;
     right:4px;
@@ -379,14 +379,14 @@ body{
     display: inline-block;
     vertical-align: middle;
     transform: perspective(1px) translateZ(0);
-    box-shadow:0 0 10px #7ff767;
+    box-shadow:0 0 10px #09F8E9;
     transition-duration:0.3s;
     transition-property: box-shadow, transform;
 }
 .grow:hover,
 .grow:focus,
 .grow:active{
-    box-shadow: 0 10px 10px 5px #7ff767;
+    box-shadow: 0 10px 10px 5px #09F8E9;
     transform: scale(1.1);
 }
 /*====end of Projects Section======*/
@@ -423,8 +423,8 @@ body{
     bottom:-90px;
     left:20px;
     right:20px;
-    background: linear-gradient(360deg,#9bbdf1 0%,rgba(178, 152, 240, 0.9)35%,
-    rgba(0,59,37,0.8)100%);
+    background: linear-gradient(360deg,#4b90f7 0%,rgba(136, 89, 245, 0.9)35%,
+    rgba(58, 6, 199, 0.8)100%);
     padding: 15px 0;
     border-radius: 4px;
 }
@@ -442,7 +442,7 @@ body{
     display:block;
     width:50px;
     height:1px;
-    background: #1d3501;
+    background: rgba(58, 6, 199, 0.8);
     bottom:0;
     left: calc(50% - 25px);
 }
@@ -478,7 +478,7 @@ body{
 /*========== Donation Section======*/
 .donation-form .input-field .input-group{
     width: 100%;
-    border:1px solid #053001;
+    border:1px solid #174EEE;
     border-radius: 7px;
     padding: 5px 10px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16);
@@ -513,7 +513,7 @@ body{
     box-shadow: 0  3px 6px rgba(0,0,0,0.16);
     padding: 18px 27px;
     border-radius: 7px;
-    border: 1px solid #3cc78f;
+    border: 1px solid ;
     display: block;
     overflow: hidden;
 }
@@ -546,7 +546,7 @@ body{
     margin-top: 50px;
 }
 .btn-don{
-    background: #053001;
+    background: #3511d8;
     color: #fff;
     border-radius: 50px;
 }
@@ -555,7 +555,7 @@ body{
 }
 /*==========End of the Donation Section======*/
 .footer{
-    background:linear-gradient(rgba(162,247,106,0.6) 10%,rgb(113, 111, 124)90%);
+    background:linear-gradient(rgba(106, 247, 235, 0.6) 10%,rgb(113, 111, 124)90%);
     padding: 0 0 30px 0;
     color: #000;
     font-size: 15px;
@@ -588,7 +588,7 @@ body{
     font-size: 18px;
     display: inline-block;
     background: #b3f19b;
-    color:#053001;
+    color:#1136af;
     line-height:1;
     padding:8px 0;
     margin-right: 4px;
@@ -639,7 +639,7 @@ body{
     line-height: 1;
 }
 .footer .footer-top .footer-links ul a:hover{
-    color: #053001;
+    color: #210dd3;
 }
 .footer .footer-top .footer-newsletter form{
     margin-top:30px;
@@ -662,12 +662,12 @@ body{
     background: none;
     font-size:16px;
     padding: 0 20px;
-    background: #053001;
+    background: #370df1;
     color:#fff;
     transition: 0.3s;
     border-radius:4;
 }
 .footer .footer-top .footer-newsletter form input[type="submit"]:hover{
-    background: #b3f19b;
-    color:#053001;
+    background: #9be7f1;
+    color:#2e0edf;
 }

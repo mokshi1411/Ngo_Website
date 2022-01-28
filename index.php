@@ -38,7 +38,7 @@
   />
   <script src="javascript.js"></script>
 
-    <title>TREASURES WORLD</title>
+    <title>TOld is Gold</title>
   </head>
   <body>
       <!---Navbar-->
@@ -77,7 +77,7 @@
                     <span>Let's Help</span>
                 </h2>
                 <p class="animate__animated animate__fadeInUp home-text">
-                    Home away from Home
+                Exceptional primary care
                 </p>
                 <a href="donate.php"class="btn hero-btn animate__animated animate__backInUp">
                     Donate Now
@@ -93,7 +93,7 @@
                     Treasure them!
                 </h2>
                 <p class="animate__animated animate__fadeInUp home-text">
-                    Parents who were given equal respect & recognition to God, now their children have other priorities before looking after their old & dependent parents.
+                        Parents are treasures<span>Preserve them and celebrate them
                 </p>
                 <a href="donate.php"class="btn hero-btn animate__animated animate__backInUp">
                     Donate Now
@@ -691,28 +691,6 @@
         </div>
     </div>
 </footer>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
