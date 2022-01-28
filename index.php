@@ -38,14 +38,14 @@
   />
   <script src="javascript.js"></script>
 
-    <title>TOld is Gold</title>
+    <title>Old is Gold</title>
   </head>
   <body>
       <!---Navbar-->
       <nav class="navbar navbar-expand-lg navbar-light nav-bg fixed-top py-2"
       id="mainNav">
       <div class="container">
-          <a class="navbar-brand text-white font-alter"href="#">OLD ROYAL</a>
+          <a class="navbar-brand text-white font-alter"href="#">GOLDEN AGE</a>
           <button class="navbar-toggler navbar-toggler-right"type="button"
           data-toggle="collapse"data-target="#myNavbar"aria-controls="myNavbar"aria-expanded="false"aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -181,7 +181,7 @@
             <div class="img">
             <img src="./images/old-age2.jpg" alt=""></div>
             <h3><a href="#">About Us</a></h3>
-            <p>Old Royal India is a secular, not-for-profit organization in India, registered under the Societies’ Registration Act of 1860. Set up in 1978, the organization works for ‘the cause and care of disadvantaged older persons to improve their quality of life. We envision a society where elderly have the right to an active, healthy and dignified life. Old Royal is known for its exemplary work in the field of ageing, relief efforts work and recognition of the organization’s outstanding contribution to population issues and efforts in the realization of older persons rights in India.</p>
+            <p>GOLDEN AGE India is a secular, not-for-profit organization in India, registered under the Societies’ Registration Act of 1860. Set up in 1978, the organization works for ‘the cause and care of disadvantaged older persons to improve their quality of life. We envision a society where elderly have the right to an active, healthy and dignified life. GOLDEN AGE is known for its exemplary work in the field of ageing, relief efforts work and recognition of the organization’s outstanding contribution to population issues and efforts in the realization of older persons rights in India.</p>
                           </div>
                           <!----->
              <div class="tab-pane container p-0"id="about-2">
@@ -189,7 +189,7 @@
                     <img src="./images/old-age3.jpg" alt="">
                 </div>
              <h3><a href="#">Our Beginning</a></h3>
-               <p>Old Royal India came into being in 1978 with Cecil Jackson Cole, founder of The first step was taken by Mr. Vijay Kumar, who had a passion to do something when- ever he saw the neglected old people. But this dream came true when he saw the two old persons.The Old Age Home was initially started in a small rented place, but slowly the organization was noticed by other social workers and renowned people of the society & finally a strong team was built to make this organization’s foundation strong and also made this an example for others to follow.</p>
+               <p>GOLDEN AGE India came into being in 1978 with Cecil Jackson Cole, founder of The first step was taken by Mr. Vijay Kumar, who had a passion to do something when- ever he saw the neglected old people. But this dream came true when he saw the two old persons.The Old Age Home was initially started in a small rented place, but slowly the organization was noticed by other social workers and renowned people of the society & finally a strong team was built to make this organization’s foundation strong and also made this an example for others to follow.</p>
                     </div>
             <!----->
             <div class="tab-pane container p-0"id="about-3">
@@ -197,7 +197,7 @@
                     <img src="./images/mission.jpg" alt="">
                 </div>
              <h3><a href="#">Our Mission</a></h3>
-               <p>The mission of OLD ROYAL Age Home is to 'Serve the  living temple of God' by attending their needs, wounds and  agony at the dusk-time of their life given by their own  children.</p>
+               <p>The mission of GOLDEN AGE  Home is to 'Serve the  living temple of God' by attending their needs, wounds and  agony at the dusk-time of their life given by their own  children.</p>
                     </div>
             <!----->
             <div class="tab-pane container p-0"id="about-4">
@@ -281,7 +281,7 @@
                                 <i class="fas fa-dove"></i>
                             </div>
                             <h2>Recreational Activities</h2>
-                            <p>Old Royal Old Age Home encourages the residents to be active participants in the environment.</p>
+                            <p>GOLDEN AGE Home encourages the residents to be active participants in the environment.</p>
                         </div>
                     </div>
                     <!----->
@@ -319,7 +319,7 @@
                  </div>
                  <h4 class="text-capitalize text-center my-2">Project-1</h4>
                  <h6 class="text-center">
-                    Lions club members  came to Old Royal and spent their precious time with the inmates of Moksha. They feel happy and get blessed by senior citizen .
+                    Lions club members  came to GOLDEN AGE and spent their precious time with the inmates of Moksha. They feel happy and get blessed by senior citizen .
                  </h6>
              </div>
              <!--End of Single Project-->
@@ -331,7 +331,7 @@
                 </div>
                 <h4 class="text-capitalize text-center my-2">Project-2</h4>
                 <h6 class="text-center">
-                    In the memory of Late Shri Balwant Tayal Kids Zee Liitle House students came to Moksha and get blessing of old people. Inmates of Old Royal felt delighted and they came child with them. 
+                    In the memory of Late Shri Balwant Tayal Kids Zee Liitle House students came to Moksha and get blessing of old people. Inmates of GOLDEN AGE felt delighted and they came child with them. 
                 </h6>
             </div>
             <!--End of Single Project-->
@@ -343,7 +343,7 @@
                 </div>
                 <h4 class="text-capitalize text-center my-2">Project-3</h4>
                 <h6 class="text-center">
-                    Dainik Bhaskar & Holy Child School both sponsored the blanket for the inmates of Old Royal Old Age Home. Blankets are distributed by the students of Holy Child .
+                    Dainik Bhaskar & Holy Child School both sponsored the blanket for the inmates of GOLDEN AGE Old Age Home. Blankets are distributed by the students of Holy Child .
                 </h6>
             </div>
             <!--End of Single Project-->
@@ -355,7 +355,7 @@
                 </div>
                 <h4 class="text-capitalize text-center my-2">Project-4</h4>
                 <h6 class="text-center">
-                    Dainik Tribune covers the story of inmates of  Old Royal Old Age Home. How they spend their life in the youth and how they get fail in the last innings of their lifes. 
+                    Dainik Tribune covers the story of inmates of  GOLDEN AGE Old Age Home. How they spend their life in the youth and how they get fail in the last innings of their lifes. 
                 </h6>
             </div>
             <!--End of Single Project-->
@@ -367,7 +367,7 @@
                 </div>
                 <h4 class="text-capitalize text-center my-2">Project-5</h4>
                 <h6 class="text-center">
-                    Jai Narayan Trust donated the Refrigerator to the old Royal Old Age Home,  in the memory of the founder of the trust  Late Sh. Jai Narayan ex- member of Lok Sabha. 
+                    Jai Narayan Trust donated the Refrigerator to the GOLDEN AGE Old Age Home,  in the memory of the founder of the trust  Late Sh. Jai Narayan ex- member of Lok Sabha. 
                 </h6>
             </div>
             <!--End of Single Project-->
@@ -379,7 +379,7 @@
                 </div>
                 <h4 class="text-capitalize text-center my-2">Project-6</h4>
                 <h6 class="text-center">
-                    Old Royal Old Age is completely based on the donation coming from donate-rs. We are very thankful to all  who support in this noble cause.
+                GOLDEN AGE Old Age is completely based on the donation coming from donate-rs. We are very thankful to all  who support in this noble cause.
                 </h6>
             </div>
             <!--End of Single Project-->
@@ -474,34 +474,8 @@
                     </div>
                 </div>
             </div>
-            <!---->
-            <div class="col-xl-3 col-lg-4 col-md-6">
-                <div class="team-1">
-                    <div class="pic">
-                        <img src="./images/team4.jpg"class="img-fluid"alt="">
-                    </div>
-                    <div class="team-info">
-                        <h4>Amit Kumar</h4>
-                        
-                        <span>Donner</span>
-                        <div class="social">
-                            <a href="">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a href="">
-                                <i class="fab fa-facebook"></i>
-                            </a>
-                            <a href="">
-                                <i class="fab fa-instagram"></i>
-                            </a>
-                            <a href="">
-                                <i class="fab fa-linkedin"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!---->
+       
+         
         </div>
     </div>
 </section>

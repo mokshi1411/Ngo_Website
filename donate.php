@@ -55,7 +55,7 @@
     </style>
     <nav class="navbar navbar-expand-lg navbar-light nav-bg fixed-top py-2" id="mainNav">
         <div class="container">
-            <a class="navbar-brand text-white font-alter" href="#">OLD ROYAL</a>
+            <a class="navbar-brand text-white font-alter" href="#">GOLDEN AGE</a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
                 data-target="#myNavbar" aria-controls="myNavbar" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
